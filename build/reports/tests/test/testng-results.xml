@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="slashdot.orgTests" duration-ms="41967" started-at="2019-03-13T01:28:31Z" finished-at="2019-03-13T01:29:13Z">
+    <groups>
+    </groups>
+    <test name="SlashDot Tests" duration-ms="41967" started-at="2019-03-13T01:28:31Z" finished-at="2019-03-13T01:29:13Z">
+      <class name="tests.ID01_slashDotTests">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:tests.ID01_slashDotTests@5d38f518]" name="setup" is-config="true" duration-ms="14" started-at="2019-03-12T21:28:31Z" finished-at="2019-03-12T21:28:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chromelocal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://slashdot.org/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="a_NumberOfStories()[pri:0, instance:tests.ID01_slashDotTests@5d38f518]" name="a_NumberOfStories" duration-ms="17367" started-at="2019-03-12T21:28:31Z" finished-at="2019-03-12T21:28:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a_NumberOfStories -->
+        <test-method status="PASS" signature="b_NumberOfIcons()[pri:0, instance:tests.ID01_slashDotTests@5d38f518]" name="b_NumberOfIcons" duration-ms="15546" started-at="2019-03-12T21:28:49Z" finished-at="2019-03-12T21:29:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_NumberOfIcons -->
+        <test-method status="PASS" signature="c_voteOnRandomPoleAndReturnNumberOfPeopleVoted()[pri:0, instance:tests.ID01_slashDotTests@5d38f518]" name="c_voteOnRandomPoleAndReturnNumberOfPeopleVoted" duration-ms="9025" started-at="2019-03-12T21:29:04Z" finished-at="2019-03-12T21:29:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c_voteOnRandomPoleAndReturnNumberOfPeopleVoted -->
+      </class> <!-- tests.ID01_slashDotTests -->
+    </test> <!-- SlashDot Tests -->
+  </suite> <!-- slashdot.orgTests -->
+</testng-results>

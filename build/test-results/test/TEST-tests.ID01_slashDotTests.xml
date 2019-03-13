@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.ID01_slashDotTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-03-13T01:28:31" hostname="aarkanov.local" time="41.941">
+  <properties/>
+  <testcase name="a_NumberOfStories" classname="tests.ID01_slashDotTests" time="17.367"/>
+  <testcase name="b_NumberOfIcons" classname="tests.ID01_slashDotTests" time="15.546"/>
+  <testcase name="c_voteOnRandomPoleAndReturnNumberOfPeopleVoted" classname="tests.ID01_slashDotTests" time="9.025"/>
+  <system-out><![CDATA[Testing on the following browser: chromelocal
+The number of stories for today is: 16
+Testing on the following browser: chromelocal
+https://a.fsdn.com/sd/topics/graphics_64.png
+https://a.fsdn.com/sd/topics/chrome_64.png
+https://a.fsdn.com/sd/topics/bitcoin_64.png
+https://a.fsdn.com/sd/topics/os_64.png
+https://a.fsdn.com/sd/topics/network_64.png
+https://a.fsdn.com/sd/topics/security_64.png
+https://a.fsdn.com/sd/topics/usa_64.png
+https://a.fsdn.com/sd/topics/intel_64.png
+https://a.fsdn.com/sd/topics/software_64.png
+https://a.fsdn.com/sd/topics/education_64.png
+https://a.fsdn.com/sd/topics/programming_64.png
+https://a.fsdn.com/sd/topics/windows_64.png
+https://a.fsdn.com/sd/topics/internet_64.png
+https://a.fsdn.com/sd/topics/opensource_64.png
+https://a.fsdn.com/sd/topics/microsoft_64100.png
+Testing on the following browser: chromelocal
+the number of people that voted for the same thing are: 1103 votes / 38%
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 73.0.3683.20 (8e2b610813e167eee3619ac4ce6e42e3ec622017) on port 30473
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Mar 12, 2019 9:28:34 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Starting ChromeDriver 73.0.3683.20 (8e2b610813e167eee3619ac4ce6e42e3ec622017) on port 9866
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Mar 12, 2019 9:28:52 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Starting ChromeDriver 73.0.3683.20 (8e2b610813e167eee3619ac4ce6e42e3ec622017) on port 45462
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Mar 12, 2019 9:29:07 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
